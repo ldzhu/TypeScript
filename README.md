@@ -10,6 +10,8 @@ TypeScript是JavaScript的超集并且能够编译输出为纯粹的JavaScript. 
 
 请阅读 :book: [TypeScript Handbook 中文版 - Published with GitBook](http://zhongsp.gitbooks.io/typescript-handbook/content/)
 
+请阅读 :book: [TypeScript Handbook 中文版](http://ldzhu.gitbooks.io/typescript-handbook/content/)
+
 ## 目录
 
 * [快速上手](./doc/handbook/tutorials/README.md)
