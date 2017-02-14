@@ -1,6 +1,6 @@
 # TypeScript Handbook（中文版）
 
-[TypeScript 2.0 正式发布!](https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/?utm_source=javascriptweekly&utm_medium=email)
+[TypeScript 2.1 正式发布!](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/)
 
 > 从前打心眼儿里讨厌编译成JavaScript的这类语言，像Coffee，Dart等。
 > 但是在15年春节前后却爱上了TypeScript。
@@ -31,6 +31,7 @@ TypeScript目前还在积极的开发完善之中，不断地会有新的特性�
   * [Angular 2](./doc/handbook/tutorials/Angular 2.html)
   * [从JavaScript迁移到TypeScript](./doc/handbook/tutorials/Migrating from JavaScript.html)
 * [新增功能](./doc/release-notes/README.html)
+  * [TypeScript 2.2](./doc/release-notes/TypeScript 2.2.html)
   * [TypeScript 2.1](./doc/release-notes/TypeScript 2.1.html)
   * [TypeScript 2.0](./doc/release-notes/TypeScript 2.0.html)
   * [TypeScript 1.8](./doc/release-notes/TypeScript 1.8.html)

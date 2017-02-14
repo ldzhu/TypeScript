@@ -2,9 +2,11 @@
 
 [![Build Status](https://travis-ci.org/zhongsp/TypeScript.svg?branch=master)](https://travis-ci.org/zhongsp/TypeScript)
 
-[TypeScript 2.0 正式发布!](https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/?utm_source=javascriptweekly&utm_medium=email)
+[TypeScript 2.1 正式发布!](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/)
 
-![TypeScript Statistics](https://msdnshared.blob.core.windows.net/media/2016/09/ts-2-0-npm-downloads.png)
+<img src="./misc/ts-2-1-release.jpg" alt="TypeScript Statistics" width="480" height="auto">
+
+<img src="./misc/ts-2-0-npm-downloads.png" alt="TypeScript Statistics" width="480" height="auto">
 
 TypeScript是JavaScript的超集并且能够编译输出为纯粹的JavaScript. <http://www.typescriptlang.org>
 
@@ -23,6 +25,7 @@ TypeScript是JavaScript的超集并且能够编译输出为纯粹的JavaScript. 
   * [Angular 2](./doc/handbook/tutorials/Angular 2.md)
   * [从JavaScript迁移到TypeScript](./doc/handbook/tutorials/Migrating from JavaScript.md)
 * [新增功能](./doc/release-notes/README.md)
+  * [TypeScript 2.2](./doc/release-notes/TypeScript 2.2.md)
   * [TypeScript 2.1](./doc/release-notes/TypeScript 2.1.md)
   * [TypeScript 2.0](./doc/release-notes/TypeScript 2.0.md)
   * [TypeScript 1.8](./doc/release-notes/TypeScript 1.8.md)
